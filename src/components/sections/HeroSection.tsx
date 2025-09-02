@@ -97,7 +97,7 @@ const HeroSection: React.FC = () => {
                   شروع ماجراجویی
                 </a>
                 <a
-                  href="#features"
+                  href="/features"
                   className="btn btn-outline text-center px-6 sm:px-8 py-3 sm:py-4 text-base sm:text-lg hover:bg-blue-50 transition-all duration-300 flex items-center justify-center"
                 >
                   همه امکانات
@@ -115,7 +115,7 @@ const HeroSection: React.FC = () => {
           className="mt-12 sm:mt-16 text-center"
         >
           <a
-            href="#features"
+            href="/features"
             className="inline-flex items-center text-blue-500 hover:text-blue-600 transition-colors group"
           >
             <span className="ml-2 font-medium text-sm sm:text-base">

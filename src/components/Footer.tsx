@@ -66,10 +66,10 @@ const Footer: React.FC = () => {
               </li>
               <li>
                 <a
-                  href="#features"
+                  href="/features"
                   className="text-gray-400 hover:text-blue-400 transition-colors text-sm sm:text-base"
                 >
-                  خدمات
+                  امکانات
                 </a>
               </li>
               <li>
@@ -107,7 +107,7 @@ const Footer: React.FC = () => {
             <ul className="space-y-2">
               <li>
                 <a
-                  href="#features"
+                  href="/features"
                   className="text-gray-400 hover:text-blue-400 transition-colors text-sm sm:text-base"
                 >
                   پنل پیامک انبوه
@@ -115,7 +115,7 @@ const Footer: React.FC = () => {
               </li>
               <li>
                 <a
-                  href="#features"
+                  href="/features"
                   className="text-gray-400 hover:text-blue-400 transition-colors text-sm sm:text-base"
                 >
                   ارسال هوشمند
@@ -123,7 +123,7 @@ const Footer: React.FC = () => {
               </li>
               <li>
                 <a
-                  href="#features"
+                  href="/features"
                   className="text-gray-400 hover:text-blue-400 transition-colors text-sm sm:text-base"
                 >
                   پیامک تبلیغاتی
@@ -131,7 +131,7 @@ const Footer: React.FC = () => {
               </li>
               <li>
                 <a
-                  href="#features"
+                  href="/features"
                   className="text-gray-400 hover:text-blue-400 transition-colors text-sm sm:text-base"
                 >
                   پیامک مناسبتی
@@ -139,7 +139,7 @@ const Footer: React.FC = () => {
               </li>
               <li>
                 <a
-                  href="#features"
+                  href="/features"
                   className="text-gray-400 hover:text-blue-400 transition-colors text-sm sm:text-base"
                 >
                   پیامک خدماتی
@@ -147,7 +147,7 @@ const Footer: React.FC = () => {
               </li>
               <li>
                 <a
-                  href="#features"
+                  href="/features"
                   className="text-gray-400 hover:text-blue-400 transition-colors text-sm sm:text-base"
                 >
                   وب سرویس پیامک
