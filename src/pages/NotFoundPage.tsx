@@ -107,7 +107,7 @@ const NotFoundPage: React.FC = () => {
                   </div>
                 </Link>
                 <Link
-                  to="/#features"
+                  to="/features"
                   className="block p-3 rounded-lg hover:bg-blue-50 transition-colors text-right"
                 >
                   <div className="font-medium text-gray-900">
